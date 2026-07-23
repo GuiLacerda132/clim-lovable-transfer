@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Modelo sem dados reais. Não preencher nem publicar credenciais. -->
+<config>
+  <server>LOCAL_DATABASE_HOST</server>
+  <user>LOCAL_DATABASE_USER</user>
+  <password>LOCAL_DATABASE_PASSWORD</password>
+  <database>LOCAL_DATABASE_NAME</database>
+  <databaseBin>LOCAL_POSTGRES_BIN_PATH</databaseBin>
+  <backup>LOCAL_BACKUP_PATH</backup>
+</config>

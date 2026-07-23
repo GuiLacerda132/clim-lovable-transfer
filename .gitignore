@@ -1,0 +1,21 @@
+# Nunca versionar configuração ou dados da clínica
+**/config.xml
+**/.env
+**/.env.*
+**/backup/
+**/*.backup
+**/*.bak
+**/*.dump
+**/*.sql.gz
+**/node_modules/
+**/release/
+**/.tools/
+**/logs/
+**/*.log
+
+# Arquivos de pacientes, exportações e anexos
+**/*paciente*.csv
+**/*paciente*.xlsx
+**/*paciente*.xls
+**/*prontuario*
+**/*cadastro*.csv
