@@ -4,7 +4,7 @@ Cole o texto a seguir no projeto conectado ao GitHub e envie também este reposi
 
 ---
 
-Trabalhe no projeto existente **CLIM**. Não faça uma demo visual, não use dados fictícios, não troque o banco por Supabase e não remova a integração local já existente. O aplicativo final é desktop via Electron e deve manter a marca **CLIM**.
+Trabalhe no projeto existente **CLIM**. A pasta `02-CLIM-ATUAL` é a estrutura real do projeto que deve ser clonada/evoluída visualmente; use seus componentes, rotas e `src/styles.css` como referência direta de design. Não peça capturas de tela. Não faça uma demo visual, não use dados fictícios, não troque o banco por Supabase e não remova a integração local já existente. O aplicativo final é desktop via Electron e deve manter a marca **CLIM**.
 
 ## Objetivo
 
